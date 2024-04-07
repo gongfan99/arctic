@@ -1,5 +1,11 @@
 # arctic
 
+## 1.6.0
+
+### Minor changes
+
+- Add Intuit provider. ([#97](https://github.com/pilcrowOnPaper/arctic/pull/97))
+
 ## 1.5.0
 
 ### Minor changes
